@@ -36,7 +36,7 @@ cities = [
 ]
 
 # Set up the Streamlit app title and description
-st.title("Freedom Conex App")
+st.title("Data Pipeline Application")
 st.write("Upload your files (PDF, XLSX, TXT, JPG) to process container data")
 
 # Create a file uploader allowing multiple file types
